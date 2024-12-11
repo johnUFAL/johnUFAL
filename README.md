@@ -29,6 +29,5 @@
   <a href = "jvnd@ic.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-duarte-ba735a2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Snack animation](https://github.com/johnUFAL/johnUFAL/blob/output/github-contribuition-grid-snake.svg)
-  
+ ![Snake animation](https://github.com/johnUFAL/johnUFAL/blob/output/github-contribuition-grid-snake.svg)
 </div>
