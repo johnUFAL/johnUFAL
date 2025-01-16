@@ -3,7 +3,7 @@
 - 🔭 Atualmente estudo ciências da computação
 - 🌱 Estudante do segundo período
 - 📫 Contate-me: @john_vddn 
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
   ##
 <a href="https://github.com/johnUFAL/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnUFAL&show_icons=true&theme=padrao" />
