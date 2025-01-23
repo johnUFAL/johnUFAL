@@ -6,7 +6,7 @@
 - 😄 Pronomes: ele/dele
   ##
 <a href="https://github.com/johnUFAL/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnUFAL&show_icons=true&theme=padrao" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnUFAL&show_icons=true&theme=padrao" />>
 </a>
 <a href="https://github.com/johnUFAL/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnUFAL&layout=compact" />
